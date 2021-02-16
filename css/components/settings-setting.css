@@ -1,0 +1,17 @@
+.settings-setting {
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.02);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.settings-setting {
+  margin-right: 20px;
+}
+.setting-list-other {
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.settings-setting__colonm:last-child {
+  opacity: 0.5;
+}
